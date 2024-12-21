@@ -86,11 +86,11 @@ DineHub/
 ### Home Page
 ![Home Page](images/HomePage.png "Home Page")
 
-### Menu List
-![Menu List](https://shreyashpatil2002.github.io/DineHub/public/dashboard/800x400)
+### User Menu List
+![Menu List](images/userdashboard.png "Munu List")
 
 ### Billing and Payment
-![Billing and Payment](https://via.placeholder.com/800x400)
+![Billing and Payment](images/Billgeneration.jpg "Bill Generations")
 
 ---
 
