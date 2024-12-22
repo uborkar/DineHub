@@ -90,8 +90,7 @@ DineHub/
 ![Menu List](images/user%20dashboard.png "Menu List")
 
 <h3>Billing and Payment</h3>
-<img src="images/Bill%20generation.jpg" alt="Bill Generations" title="Bill Generations" width="600" height="300">
----
+<img src="images/Bill%20generation.jpg" alt="Bill Generations" title="Bill Generations" width="1200" height="250">
 
 ## 🤝 Contributors
 
