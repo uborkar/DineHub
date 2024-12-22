@@ -87,7 +87,7 @@ DineHub/
 ![Home Page](images/HomePage.png "Home Page")
 
 ### User Menu List
-![Menu List](images/user dashboard.png "Menu List")
+![Menu List](images/user%20dashboard.png "Menu List")
 
 ### Billing and Payment
 ![Billing and Payment](images/Bill generation.jpg "Bill Generations")
