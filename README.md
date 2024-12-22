@@ -90,7 +90,7 @@ DineHub/
 ![Menu List](images/user%20dashboard.png "Menu List")
 
 ### Billing and Payment
-![Billing and Payment](images/Bill generation.jpg "Bill Generations")
+![Billing and Payment](images/Bill%2generation.jpg "Bill Generations")
 
 ---
 
